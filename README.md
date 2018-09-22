@@ -1,2 +1,2 @@
-# Blocky-The-Blockchain
+# Blockchain
 A simple Blockchain implementation in JavaScript.
