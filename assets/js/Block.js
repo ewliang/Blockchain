@@ -7,7 +7,7 @@ export default class Block {
     this.timestamp = timestamp;
     this.previousHash = previousHash;
     this.data = data;
-    this.hash = this.calculateHash();
+    this.hash = this.generateHash();
   }
 
   generateHash() {
